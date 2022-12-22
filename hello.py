@@ -4,6 +4,5 @@ print('pushed to git using token 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')
 #now adding new Feature with functions
 def up(s1):
     s1 = s1.upper()
-    return s1
-output=up("pragya")
-print(output)
+    print s1
+up("pragya")
